@@ -10,4 +10,4 @@ Modelo E-R
 
 
 
-![Diagrama de la práctica](PracticaFinal.PNG)
+![Diagrama de la práctica](PracticaFinal.png)
